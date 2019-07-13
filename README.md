@@ -1,6 +1,6 @@
 
-#Problem 1 
-*Social Network Analysis*
+# Problem 1 
+**Social Network Analysis**
 The transaction file represents Venmo’s social network: the nodes of the network correspond to users,
 and the edges represent the transactions between users. One of the fundamental properties of every
 network is its degree distribution (https://en.wikipedia.org/wiki/Degree_distribution), i.e. the number of
@@ -18,8 +18,8 @@ number)? Reciprocity is defined as follows: both user A and user B have sent mon
 other. Create a plot that shows the percentage of reciprocal transactions over time, with six
 month increments between January 1st 2010 (start date) and June 1st 2016 (end date).
 
-#Problem 2
-*Emoji & Text Analysis*
+# Problem 2
+**Emoji & Text Analysis**
 One of the most fun aspects of using Venmo is picking emojis to describe your spending habits. Various
 analyses have tried to identify the most popular emojis in Venmo:
 https://bankinnovation.net/2016/09/what-do-people-use-venmo-for-check-the-emojis/.
